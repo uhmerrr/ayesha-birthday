@@ -156,7 +156,7 @@ elif page == "📸 Our Memories":
         # Modify the text below to match your real photos!
         memories = [
             {
-                "img": "pic1.jpeg", 
+                "img": "Pic1.jpeg", 
                 "text": "I remember on these days we would hear each other's heartbeat and my heart beats so fast when I am with you, I just can't explain this feeling."
             },
             {
@@ -164,11 +164,11 @@ elif page == "📸 Our Memories":
                 "text": "I kissed you for the first time on this day, it holds a very special place in my heart, seeing you wear my hoodie makes my heart bloom so much."
             },
             {
-                "img": "pic3.jpeg", 
+                "img": "Pic3.jpeg", 
                 "text": "Our espresso date here you got me those gifts and I don't even have words to tell you how happy it made me, I am still over the moon."
             },
             {
-                "img": "pic4.jpeg", 
+                "img": "Pic4.jpeg", 
                 "text": "Our first date after getting back together even though the brick sandwich was very eww but costa will always have a special place in my heart jaanu."
             }
         ]
